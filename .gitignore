@@ -1,2 +1,4 @@
 *.atom
 *.log
+.vscode
+.idea
